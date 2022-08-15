@@ -1,0 +1,433 @@
+::placeholder{
+  color: #808080;
+}
+
+a {
+  text-decoration: none;
+  color: #EB4747;
+  display: inline-block;
+}
+
+a:hover {
+  color: black;
+  background-color: #ABC9FF;
+}
+
+body {
+  margin: 0;
+  font-family: 'Roboto Mono', monospace;
+}
+
+i {
+  display: inline-block;
+  margin: 0 10px;
+  padding: 0;
+}
+
+img:hover{
+  background-color: #ABC9FF;
+}
+
+input{
+  border-color: #EB4747;
+  width:120%;
+  border-radius: 5%;
+  color: #EB4747 ;
+}
+
+#nav-bar h3 {
+  display: inline-block;
+  margin: 0 10px;
+  padding: 0;
+}
+
+.bottom-container {
+  background: #FFDEDE;
+  position: absolute;
+  top:580%;
+  height:15%;
+  margin: 0;
+  left:0;
+  width: 100%;
+  padding: 50px 0 20px;
+}
+
+
+.btn {
+  -webkit-border-radius: 36;
+  -moz-border-radius: 36;
+  border-radius: 36px;
+  color: #000000;
+  font-size: 16px;
+  background: #f7cf0a;
+  padding: 8px 20px 10px 20px;
+  text-decoration: none;
+  position: absolute;
+  width: 100%;
+}
+
+.btn:hover {
+  background: #ebce9b;
+  text-decoration: none;
+}
+
+.cert-1 {
+  position: absolute;
+  border-style: solid;
+  border-color: #FFDEDE;
+  padding: 5px;
+  width: 150px;
+  height: 150px;
+}
+
+.cert-2 {
+  position: absolute;
+  border-style: solid;
+  border-color: #FFDEDE;
+  left: 25%;
+  padding: 5px;
+  width: 150px;
+  height: 150px;
+}
+
+.cert-3 {
+  position: absolute;
+  left: 50%;
+  border-style: solid;
+  border-color: #FFDEDE;
+  padding: 5px;
+  width: 150px;
+  height: 150px;
+}
+
+.cert-4 {
+  position: absolute;
+  border-style: solid;
+  border-color: #FFDEDE;
+  left: 75%;
+  padding: 5px;
+  width: 150px;
+  height: 150px;
+}
+
+.cert-5 {
+  position: absolute;
+  border-style: solid;
+  border-color: #FFDEDE;
+  padding: 5px;
+  width: 150px;
+  height: 150px;
+  top:55%;
+  left:0.4%;
+}
+
+.cert-6 {
+  position: absolute;
+  border-style: solid;
+  border-color: #FFDEDE;
+  left: 25%;
+  top: 55%;
+  padding: 5px;
+  width: 150px;
+  height: 150px;
+}
+
+.cert-7 {
+  position: absolute;
+  left: 50%;
+  border-style: solid;
+  border-color: #FFDEDE;
+  padding: 5px;
+  width: 150px;
+  height: 150px;
+  top:55%;
+}
+
+.cert-8 {
+  position: absolute;
+  border-style: solid;
+  border-color: #FFDEDE;
+  left: 75%;
+  top: 55%;
+  padding: 5px;
+  width: 150px;
+  height: 150px;
+}
+
+.cert-9 {
+  position: absolute;
+  left: 0.4%;
+  border-style: solid;
+  border-color: #FFDEDE;
+  padding: 5px;
+  width: 150px;
+  height: 150px;
+  top:110%;
+}
+
+.cert-10 {
+  position: absolute;
+  border-style: solid;
+  border-color: #FFDEDE;
+  left: 25%;
+  top: 110%;
+  padding: 5px;
+  width: 150px;
+  height: 150px;
+}
+
+.cert-11 {
+  position: absolute;
+  border-style: solid;
+  border-color: #FFDEDE;
+  left:50%;
+  top: 110%;
+  padding: 5px;
+  width: 150px;
+  height: 150px;
+}
+
+
+.column-1 {
+  position: absolute;
+  padding: 10px;
+  margin: 10px;
+  left: 20%;
+  line-height: 3em;
+  font-size: 20px;
+  float: left;
+}
+
+.column-2 {
+  position: absolute;
+  padding: 10px;
+  margin: 10px;
+  right: 20%;
+  line-height: 3em;
+  font-size: 20px;
+  float: right;
+}
+
+.contact {
+  top: 710%;
+  left: 115%;
+  position: absolute;
+  width:30%;
+}
+
+.form-box {
+  position: absolute;
+  padding: 5px;
+  margin:40px;
+  background-color: #FFDEDE;
+  color: #EB4747;
+  top: 730%;
+  left:80%;
+  border-radius: 6%;
+  width: 85%;
+  height: 115%;
+}
+
+.form-email{
+  position: absolute;
+  left:7%;
+  top:22%;
+}
+
+.form-message{
+  position: absolute;
+  left:7%;
+  top:42%;
+  width:90%;
+}
+
+.form-name{
+  position: absolute;
+  left:7%;
+  top:5%;
+}
+
+.intro {
+  position: absolute;
+  top: 33%;
+  right: 25%;
+}
+
+.intro-hello {
+  color: #E6739F;
+}
+
+.intro-info {
+  /*margin: 100px auto 100px auto;
+  width: 30%;
+  text-align: left;
+  line-height:0.7;
+  right:60%;*/
+  line-height: 0.7;
+}
+
+.intro-name {
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 35px;
+}
+
+.list {
+  display: inline-block;
+  position: absolute;
+  top: 35%;
+  right: -140%;
+  color: #EB4747;
+}
+
+.middle-content {
+  width: 35%;
+  color: #EB4747;
+  position: absolute;
+  left: 6.5%;
+  line-height: 2;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.middle-content h2 {
+  color: black;
+}
+
+.name {
+  top: 12%;
+  padding: 0;
+}
+
+.name-bar{
+  position:absolute;
+  left:45%;
+  top:42%;
+}
+
+.nav-bar {
+  display: flex;
+  padding: 0;
+  position: absolute;
+  top: 37%;
+  left: 360%;
+}
+
+.portfolio {
+  top: 310%;
+  left: 110%;
+  position: absolute;
+}
+
+.portfolio-box {
+  position: absolute;
+  padding: 5px;
+  top: 340%;
+  width: 200%;
+  left: 34%;
+  height: 100%
+}
+
+.projects {
+  top: 510%;
+  left: 120%;
+  position: absolute;
+}
+
+.projects-box {
+  position: absolute;
+  padding: 5px;
+  top: 540%;
+  width: 200%;
+  left: 34%;
+}
+
+.skills {
+  top: 140%;
+  left: 110%;
+  position: absolute;
+}
+
+.skills-box {
+  position: absolute;
+  padding: 5px;
+  background-color: #FFDEDE;
+  color: #EB4747;
+  top: 170%;
+  width: 185%;
+  left: 30%;
+  height: 95%;
+}
+
+.sneha {
+  display: inline-block;
+  position: absolute;
+  top: 12%;
+  left: 100%;
+  margin-left: 100px;
+  border-radius: 20%
+}
+
+.social {
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  bottom: -30%;
+  right: 62.5%;
+}
+
+.socials-bar{
+  left:43%;
+  position: absolute;
+}
+
+.submit {
+  -webkit-border-radius: 36;
+  -moz-border-radius: 36;
+  border-radius: 36px;
+  color: #000000;
+  font-size: 16px;
+  background: #f7cf0a;
+  padding: 4px 10px 6px 18px;
+  text-decoration: none;
+  position: absolute;
+  width: 15%;
+}
+
+.submit:hover {
+  background: #ebce9b;
+  text-decoration: none;
+}
+
+.top {
+  position: absolute;
+  left: 6%;
+  top: 5%;
+  padding: 0;
+}
+
+.top-container {
+  position: relative;
+  background-color: #FFDEDE;
+  height: 370px;
+}
+
+.wave-bg {
+  padding: 7%;
+  height: 0;
+  display: inline-block;
+  transform-origin: top;
+  background-image: url(\wave-bg.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 86%;
+}
+
+.web-dev {
+  display: block;
+  position: absolute;
+  top: 19%;
+  left: 20%;
+  float: left;
+  margin: 0;
+  padding: 0;
+}
